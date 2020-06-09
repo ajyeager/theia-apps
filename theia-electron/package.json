@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "theia-electron",
+    "name": "theia-electron-example",
     "version": "1.2.0",
     "description": "Theia",
     "main": "scripts/theia-electron-main.js",
