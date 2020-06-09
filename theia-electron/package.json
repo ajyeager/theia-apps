@@ -13,6 +13,11 @@
     },
     "theia": {
         "target": "electron",
+        "frontend": {
+          "config": {
+            "applicationName": "Theia Electron Example Application"
+          }
+        }, 
         "backend": {
             "config": {
                 "startupTimeout": -1
